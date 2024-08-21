@@ -1,3 +1,2 @@
-# loginRegistration_system
-
-A simple login_registration system and more...
+# BigProgramV2
+It is a big program. It has: Login and registration system, calculator, quiz and more!
